@@ -211,13 +211,13 @@ print("AI-generated" if prediction == 1 else "Human-written")
 ## 📈 Results
 
 ### Binary Classification
-- **Accuracy**: ~XX%
-- **Precision**: ~XX%
-- **Recall**: ~XX%
-- **F1-Score**: ~XX%
+- **Accuracy**: 98.10%
+- **Precision**: 97.39%
+- **Recall**: 88.65%
+- **F1-Score**: 96.3%
 
 ### Multiclass Classification
-- **Overall Accuracy**: ~XX%
+- **Overall Accuracy**: 88.34%
 - **Per-class F1**: Varies by model
 - **Confusion Matrix**: Detailed in notebook
 
